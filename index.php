@@ -6,6 +6,7 @@
  * and open the template in the editor.
  */
 
-echo phpversion();
+echo "Version PhP: ".phpversion();
+
 
 ?>
